@@ -1,0 +1,25 @@
+C:\Users\brky2\Desktop\GorselProgramlama3-Proje\GorselProgramlama3-Proje\bin\Debug\GorselProgramlama3-Proje.exe.config
+C:\Users\brky2\Desktop\GorselProgramlama3-Proje\GorselProgramlama3-Proje\bin\Debug\GorselProgramlama3-Proje.exe
+C:\Users\brky2\Desktop\GorselProgramlama3-Proje\GorselProgramlama3-Proje\bin\Debug\GorselProgramlama3-Proje.pdb
+C:\Users\brky2\Desktop\GorselProgramlama3-Proje\GorselProgramlama3-Proje\obj\Debug\GorselProgramlama3-Proje.csproj.AssemblyReference.cache
+C:\Users\brky2\Desktop\GorselProgramlama3-Proje\GorselProgramlama3-Proje\obj\Debug\GorselProgramlama3_Proje.Form1.resources
+C:\Users\brky2\Desktop\GorselProgramlama3-Proje\GorselProgramlama3-Proje\obj\Debug\GorselProgramlama3_Proje.Form2.resources
+C:\Users\brky2\Desktop\GorselProgramlama3-Proje\GorselProgramlama3-Proje\obj\Debug\GorselProgramlama3_Proje.Properties.Resources.resources
+C:\Users\brky2\Desktop\GorselProgramlama3-Proje\GorselProgramlama3-Proje\obj\Debug\GorselProgramlama3-Proje.csproj.GenerateResource.cache
+C:\Users\brky2\Desktop\GorselProgramlama3-Proje\GorselProgramlama3-Proje\obj\Debug\GorselProgramlama3-Proje.csproj.CoreCompileInputs.cache
+C:\Users\brky2\Desktop\GorselProgramlama3-Proje\GorselProgramlama3-Proje\obj\Debug\GorselProgramlama3-Proje.exe
+C:\Users\brky2\Desktop\GorselProgramlama3-Proje\GorselProgramlama3-Proje\obj\Debug\GorselProgramlama3-Proje.pdb
+C:\Users\brky2\Desktop\GorselProgramlama3-Proje\GorselProgramlama3-Proje\obj\Debug\GorselProgramlama3_Proje.Form3.resources
+C:\Users\brky2\Desktop\GorselProgramlama3-20192425017-Berkay Koç-Proje\GorselProgramlama3-Proje\bin\Debug\GorselProgramlama3-Proje.exe.config
+C:\Users\brky2\Desktop\GorselProgramlama3-20192425017-Berkay Koç-Proje\GorselProgramlama3-Proje\bin\Debug\GorselProgramlama3-Proje.exe
+C:\Users\brky2\Desktop\GorselProgramlama3-20192425017-Berkay Koç-Proje\GorselProgramlama3-Proje\bin\Debug\GorselProgramlama3-Proje.pdb
+C:\Users\brky2\Desktop\GorselProgramlama3-20192425017-Berkay Koç-Proje\GorselProgramlama3-Proje\obj\Debug\GorselProgramlama3-Proje.csproj.AssemblyReference.cache
+C:\Users\brky2\Desktop\GorselProgramlama3-20192425017-Berkay Koç-Proje\GorselProgramlama3-Proje\obj\Debug\GorselProgramlama3_Proje.Form1.resources
+C:\Users\brky2\Desktop\GorselProgramlama3-20192425017-Berkay Koç-Proje\GorselProgramlama3-Proje\obj\Debug\GorselProgramlama3_Proje.Form2.resources
+C:\Users\brky2\Desktop\GorselProgramlama3-20192425017-Berkay Koç-Proje\GorselProgramlama3-Proje\obj\Debug\GorselProgramlama3_Proje.Form3.resources
+C:\Users\brky2\Desktop\GorselProgramlama3-20192425017-Berkay Koç-Proje\GorselProgramlama3-Proje\obj\Debug\GorselProgramlama3_Proje.Properties.Resources.resources
+C:\Users\brky2\Desktop\GorselProgramlama3-20192425017-Berkay Koç-Proje\GorselProgramlama3-Proje\obj\Debug\GorselProgramlama3-Proje.csproj.GenerateResource.cache
+C:\Users\brky2\Desktop\GorselProgramlama3-20192425017-Berkay Koç-Proje\GorselProgramlama3-Proje\obj\Debug\GorselProgramlama3-Proje.csproj.CoreCompileInputs.cache
+C:\Users\brky2\Desktop\GorselProgramlama3-20192425017-Berkay Koç-Proje\GorselProgramlama3-Proje\obj\Debug\GorselProgramlama3-Proje.exe
+C:\Users\brky2\Desktop\GorselProgramlama3-20192425017-Berkay Koç-Proje\GorselProgramlama3-Proje\obj\Debug\GorselProgramlama3-Proje.pdb
+C:\Users\brky2\Desktop\GorselProgramlama3-20192425017-Berkay Koç-Proje\GorselProgramlama3-Proje\obj\Debug\GorselProgramlama3_Proje.Form4.resources
